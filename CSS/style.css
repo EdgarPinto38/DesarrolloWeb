@@ -1,10 +1,27 @@
-/* html{
-
-    font-family:sans-serif;
-    background-color:black;
-    color: green;
-
-} */
 html{
     scroll-behavior: smooth;
+    font-size: 16px;
+    font-family: 'DM Serif Display', serif;
+    color:greenyellow;
+    background-color:black;
+}
+
+a{
+    color:yellow;   
+    
+     
+}
+
+a:hover{
+    color: black;
+    background-color: white;
+}
+
+h2{
+    
+    color: aquamarine;
+}
+
+.maxWidth{
+    max-width: 100%;
 }
